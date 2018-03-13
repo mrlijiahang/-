@@ -1,0 +1,285 @@
+<!-- ******************************************
+*  Author : niuzz niuzz@hotmail.com
+*  Created On : Tue Mar 06 2018
+*  File : tmp.html
+******************************************* -->
+
+<!DOCTYPE html>
+<html lang="zh_CN">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="author" content="niuzz niuzz@hotmail.com">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>ljh666</title>
+</head>
+
+<body>
+    <div>
+        <div class="container">
+            <div class="row">
+                <nav class="navbar navbar-expand-lg navbar-light bg-light" style="width: 100%;">
+                    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+
+                    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                        <ul class="navbar-nav mr-auto">
+                            <li class="nav-item">
+                                <a class="nav-link" href="#">比特首页</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="#">软件新闻</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="#">云计算</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="#">信息化</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="#">整机设计</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="#">移动互联</a>
+                            </li>
+                        </ul>
+                        <ul class="navbar-nav ml-auto">
+                            <li class="nav-item">
+                                <a class="nav-link" href="#">论坛</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="#">产品库</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="#">视频</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="#">专题</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="#">CIO俱乐部</a>
+                            </li>
+                        </ul>
+                    </div>
+                </nav>
+            </div>
+            <div class="row">
+                <div class="banner" style="height: 150p;">
+                    <div class="row">
+                        <div class="col-0  col-md-4 top-left"></div>
+                        <div class="col-12  col-md-8 top-right">
+                            <p>
+                                <strong>
+                                    <h1>布局人工智能时代，软件企业“放大招”</h1>
+                                </strong>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+            <div class="row">
+                <div class="col-12  col-md-8 top2-left d-none d-md-block"></div>
+                <div class="col-12  col-md-8 mobile  d-md-none  "></div>
+                <div class="col-12  col-md-4 top2-right">
+                    <p style="color: azure;margin-top: 30%;line-height: 30px;">
+                        纵观2017软件企业动态，“人工智能”四个字出现的频率越来越高。 放眼望去，无论是国外的IBM、SAP、Oracle，还是国内的用友、金蝶，都在加大人工智能技术的布局。那么，怎样做才是软件企业布局人工智能的正确姿势？没有标准答案！每家企业都在以自己的方式应对时代变化。
+
+                    </p>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-xs-12  col-md-9 middle-left">
+                    <div style="margin-top: 30px">
+                        <p style="color: red; font-size: 20px;">
+                            <img src="public/img/tou.-PZ8O6.jpg" alt="">
+                            <strong> IBM CEO罗睿兰：全力押宝人工智能Watson</strong>
+                        </p>
+                        <div class="market" style="line-height: 30px;padding-top: 15px; padding-left: 5%;">
+                            <p>这两年，人工智能大火，IBM Watson更是刷爆了业界。无论是软件还是硬件，IBM在人工智能领域的投入都是大手笔。</p>
+                        </div>
+                        <p style="margin-left: 5%; padding-bottom:3% ">2016年，IBM CEO 罗睿兰 (Ginni Rometty) 在 CES （International Consumer Electronics Show）上发表演讲时明确表示：IBM不再只是一家硬件公司或软件公司，而已经转型为一家认知解决方案云平台公司</p>
+                        <p style="margin-left: 5%; padding-bottom:3%">IBM公司自2006年开始研发Watson（沃森）。一开始IBM想把Watson打造为超级Siri，依托于硬件盈利。后来，转型为认知商业计算平台，2011年8月开始应用于医疗领域。随后是2014年人工智能成为IBM重点关注领域，试图通过Watson打造AI生态系统，并且计划每年在该计划上投资30亿美元以上。</p>
+                        <p style="margin-left: 5%; padding-bottom:3%">虽然，有人评价Watson的宣传策略过于夸张和过度乐观，但IBM围绕人工智能的布局让其获得了长时间的技术积累。IBM提出的企业数字化转型架构，已把Watson技术融入其中。未来，IBM将通过新的关注点、新的专业能力、新的工作方式入手，推动企业的创新和运营模式，也重塑客户、员工和合作伙伴之间的关系</p>
+                        <p style="margin-left: 5%; padding-bottom:3%">当很多企业还处于AI观望阶段，IBM已经可以帮助很多客户在银行、保险、物流等领域实施了认知客服的项目。通过AI相关应用，IBM可以帮助客户实时获客，实时洞察，大大提高了每个客户的幸福感、工作效率和工作能力</p>
+                        <p style="margin-left: 5%; padding-bottom:3%">相信，随着认知商业的继续发展，IBM的前期投入必将获得丰富的回报。</p>
+                    </div>
+
+                    <div style="margin-top: 30px">
+                        <p style="color: red; font-size: 20px;">
+                            <img src="public/img/tou.-PZ8O6.jpg" alt="">
+                            <strong> IBM CEO罗睿兰：全力押宝人工智能Watson</strong>
+                        </p>
+                        <div class="market" style="line-height: 30px;padding-top: 15px; padding-left: 5%;">
+                            <p>这两年，人工智能大火，IBM Watson更是刷爆了业界。无论是软件还是硬件，IBM在人工智能领域的投入都是大手笔。</p>
+                        </div>
+                        <p style="margin-left: 5%; padding-bottom:3% ">2016年，IBM CEO 罗睿兰 (Ginni Rometty) 在 CES （International Consumer Electronics Show）上发表演讲时明确表示：IBM不再只是一家硬件公司或软件公司，而已经转型为一家认知解决方案云平台公司</p>
+                        <p style="margin-left: 5%; padding-bottom:3%">IBM公司自2006年开始研发Watson（沃森）。一开始IBM想把Watson打造为超级Siri，依托于硬件盈利。后来，转型为认知商业计算平台，2011年8月开始应用于医疗领域。随后是2014年人工智能成为IBM重点关注领域，试图通过Watson打造AI生态系统，并且计划每年在该计划上投资30亿美元以上。</p>
+                        <p style="margin-left: 5%; padding-bottom:3%">虽然，有人评价Watson的宣传策略过于夸张和过度乐观，但IBM围绕人工智能的布局让其获得了长时间的技术积累。IBM提出的企业数字化转型架构，已把Watson技术融入其中。未来，IBM将通过新的关注点、新的专业能力、新的工作方式入手，推动企业的创新和运营模式，也重塑客户、员工和合作伙伴之间的关系</p>
+                        <p style="margin-left: 5%; padding-bottom:3%">当很多企业还处于AI观望阶段，IBM已经可以帮助很多客户在银行、保险、物流等领域实施了认知客服的项目。通过AI相关应用，IBM可以帮助客户实时获客，实时洞察，大大提高了每个客户的幸福感、工作效率和工作能力</p>
+                        <p style="margin-left: 5%; padding-bottom:3%">相信，随着认知商业的继续发展，IBM的前期投入必将获得丰富的回报。</p>
+                    </div>
+
+                    <div style="margin-top: 30px">
+                        <p style="color: red; font-size: 20px;">
+                            <img src="public/img/tou.-PZ8O6.jpg" alt="">
+                            <strong> IBM CEO罗睿兰：全力押宝人工智能Watson</strong>
+                        </p>
+                        <div class="market" style="line-height: 30px;padding-top: 15px; padding-left: 5%;">
+                            <p>这两年，人工智能大火，IBM Watson更是刷爆了业界。无论是软件还是硬件，IBM在人工智能领域的投入都是大手笔。</p>
+                        </div>
+                        <p style="margin-left: 5%; padding-bottom:3% ">2016年，IBM CEO 罗睿兰 (Ginni Rometty) 在 CES （International Consumer Electronics Show）上发表演讲时明确表示：IBM不再只是一家硬件公司或软件公司，而已经转型为一家认知解决方案云平台公司</p>
+                        <p style="margin-left: 5%; padding-bottom:3%">IBM公司自2006年开始研发Watson（沃森）。一开始IBM想把Watson打造为超级Siri，依托于硬件盈利。后来，转型为认知商业计算平台，2011年8月开始应用于医疗领域。随后是2014年人工智能成为IBM重点关注领域，试图通过Watson打造AI生态系统，并且计划每年在该计划上投资30亿美元以上。</p>
+                        <p style="margin-left: 5%; padding-bottom:3%">虽然，有人评价Watson的宣传策略过于夸张和过度乐观，但IBM围绕人工智能的布局让其获得了长时间的技术积累。IBM提出的企业数字化转型架构，已把Watson技术融入其中。未来，IBM将通过新的关注点、新的专业能力、新的工作方式入手，推动企业的创新和运营模式，也重塑客户、员工和合作伙伴之间的关系</p>
+                        <p style="margin-left: 5%; padding-bottom:3%">当很多企业还处于AI观望阶段，IBM已经可以帮助很多客户在银行、保险、物流等领域实施了认知客服的项目。通过AI相关应用，IBM可以帮助客户实时获客，实时洞察，大大提高了每个客户的幸福感、工作效率和工作能力</p>
+                        <p style="margin-left: 5%; padding-bottom:3%">相信，随着认知商业的继续发展，IBM的前期投入必将获得丰富的回报。</p>
+                    </div>
+
+                    <div style="margin-top: 30px">
+                        <p style="color: red; font-size: 20px;">
+                            <img src="public/img/tou.-PZ8O6.jpg" alt="">
+                            <strong> IBM CEO罗睿兰：全力押宝人工智能Watson</strong>
+                        </p>
+                        <div class="market" style="line-height: 30px;padding-top: 15px; padding-left: 5%;">
+                            <p>这两年，人工智能大火，IBM Watson更是刷爆了业界。无论是软件还是硬件，IBM在人工智能领域的投入都是大手笔。</p>
+                        </div>
+                        <p style="margin-left: 5%; padding-bottom:3% ">2016年，IBM CEO 罗睿兰 (Ginni Rometty) 在 CES （International Consumer Electronics Show）上发表演讲时明确表示：IBM不再只是一家硬件公司或软件公司，而已经转型为一家认知解决方案云平台公司</p>
+                        <p style="margin-left: 5%; padding-bottom:3%">IBM公司自2006年开始研发Watson（沃森）。一开始IBM想把Watson打造为超级Siri，依托于硬件盈利。后来，转型为认知商业计算平台，2011年8月开始应用于医疗领域。随后是2014年人工智能成为IBM重点关注领域，试图通过Watson打造AI生态系统，并且计划每年在该计划上投资30亿美元以上。</p>
+                        <p style="margin-left: 5%; padding-bottom:3%">虽然，有人评价Watson的宣传策略过于夸张和过度乐观，但IBM围绕人工智能的布局让其获得了长时间的技术积累。IBM提出的企业数字化转型架构，已把Watson技术融入其中。未来，IBM将通过新的关注点、新的专业能力、新的工作方式入手，推动企业的创新和运营模式，也重塑客户、员工和合作伙伴之间的关系</p>
+                        <p style="margin-left: 5%; padding-bottom:3%">当很多企业还处于AI观望阶段，IBM已经可以帮助很多客户在银行、保险、物流等领域实施了认知客服的项目。通过AI相关应用，IBM可以帮助客户实时获客，实时洞察，大大提高了每个客户的幸福感、工作效率和工作能力</p>
+                        <p style="margin-left: 5%; padding-bottom:3%">相信，随着认知商业的继续发展，IBM的前期投入必将获得丰富的回报。</p>
+                    </div>
+
+                    <div style="margin-top: 30px">
+                        <p style="color: red; font-size: 20px;">
+                            <img src="public/img/tou.-PZ8O6.jpg" alt="">
+                            <strong> IBM CEO罗睿兰：全力押宝人工智能Watson</strong>
+                        </p>
+                        <div class="market" style="line-height: 30px;padding-top: 15px; padding-left: 5%;">
+                            <p>这两年，人工智能大火，IBM Watson更是刷爆了业界。无论是软件还是硬件，IBM在人工智能领域的投入都是大手笔。</p>
+                        </div>
+                        <p style="margin-left: 5%; padding-bottom:3% ">2016年，IBM CEO 罗睿兰 (Ginni Rometty) 在 CES （International Consumer Electronics Show）上发表演讲时明确表示：IBM不再只是一家硬件公司或软件公司，而已经转型为一家认知解决方案云平台公司</p>
+                        <p style="margin-left: 5%; padding-bottom:3%">IBM公司自2006年开始研发Watson（沃森）。一开始IBM想把Watson打造为超级Siri，依托于硬件盈利。后来，转型为认知商业计算平台，2011年8月开始应用于医疗领域。随后是2014年人工智能成为IBM重点关注领域，试图通过Watson打造AI生态系统，并且计划每年在该计划上投资30亿美元以上。</p>
+                        <p style="margin-left: 5%; padding-bottom:3%">虽然，有人评价Watson的宣传策略过于夸张和过度乐观，但IBM围绕人工智能的布局让其获得了长时间的技术积累。IBM提出的企业数字化转型架构，已把Watson技术融入其中。未来，IBM将通过新的关注点、新的专业能力、新的工作方式入手，推动企业的创新和运营模式，也重塑客户、员工和合作伙伴之间的关系</p>
+                        <p style="margin-left: 5%; padding-bottom:3%">当很多企业还处于AI观望阶段，IBM已经可以帮助很多客户在银行、保险、物流等领域实施了认知客服的项目。通过AI相关应用，IBM可以帮助客户实时获客，实时洞察，大大提高了每个客户的幸福感、工作效率和工作能力</p>
+                        <p style="margin-left: 5%; padding-bottom:3%">相信，随着认知商业的继续发展，IBM的前期投入必将获得丰富的回报。</p>
+                    </div>
+                    <div class="bottom">
+                        <div class="line">
+
+                            <img id='line' src="http://net.chinabyte.com/zt/lvxing/images/img_682-23.jpg" alt="">
+                            <div class="linedown clearfix">
+                                <div class="l col-xs-12 col-md-3">
+                                    <img src="public/img/2.1Pj3Bx.jpg" alt="">
+                                </div>
+                                <div class="r col-xs-12 col-md-9">
+                                    <p style="text-align: left">大数据、云计算、互联网+……管理软件的下一个风口在哪里？2017已出现苗头！当越来越多的软件企业在人工智能领域圈定跑马，我们说智能时代的未来已来！</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+
+
+
+
+                </div>
+                <div class="col-xs-12  col-md-3 middle-right">
+                    <div class="col-xs-12 col-md-12">
+                        <strong style="font-size: 25px;color: red">栏目</strong>
+                        <strong style="font-size: 25px;">介绍</strong>
+                    </div>
+
+
+
+                    <div class="col-xs-12 col-md-12">
+                        <img src="http://net.chinabyte.com/zt/lvxing/images/img_320-129.jpg" alt="">
+                        <p style="line-height: 25px;margin-top: -30%;">《比特“软”新闻》是比特网立足企业信息化领域打造的原创深度栏目。每月针对新闻热点做简短评论，语言风格不限，尽情展现评论者个性化色彩，可风趣幽默，也可清新亮丽。评论人可以是媒体、业界知名专家、厂商或者CIO。旨在挖掘热点新闻事件背后的故事，引发读者共鸣。</p>
+
+                    </div>
+                    <div class="col-xs-12 col-md-12 " style="width: 100%;
+                        height: 50px;background-image: url('http://net.chinabyte.com/zt/lvxing/images/img_302-40.jpg')">
+                        <strong style="font-size: 25px;color: red">热点</strong>
+                        <strong style="font-size: 25px;">新闻</strong>
+
+
+
+                    </div>
+                    <div class="col-xs-12 col-md-12 ">
+                        <ul>
+
+                            <li>
+                                <a href=""> xxxxxxxx</a>
+                            </li>
+                            <li>
+                                <a href=""> xxxxxxxx</a>
+                            </li>
+                            <li>
+                                <a href=""> xxxxxxxx</a>
+                            </li>
+                            <li>
+                                <a href=""> xxxxxxxx</a>
+                            </li>
+                            <li>
+                                <a href=""> xxxxxxxx</a>
+                            </li>
+                            <li>
+                                <a href=""> xxxxxxxx</a>
+                            </li>
+                            <li>
+                                <a href=""> xxxxxxxx</a>
+                            </li>
+                            <li>
+                                <a href=""> xxxxxxxx</a>
+                            </li>
+                        </ul>
+
+                    </div>
+
+
+
+
+                </div>
+
+            </div>
+            <div class="row">
+                <div class="col-xs-12 col-md-12 foot">
+                    <div>
+                        <a href="http://www.tianjimedia.com/chinabyte/" rel="nofollow">关于我们</a> |
+                        <a href="http://www.tianjimedia.com/english/31/8262031.shtml" rel="nofollow">About us
+                        </a> |
+                        <a href="http://www.tianjimedia.com/attorney/" rel="nofollow">网站律师</a> |
+                        <a href="http://www.tianjimedia.com/ar/" rel="nofollow">天极服务</a> |
+                        <a href="http://hot.chinabyte.com/">热点新闻</a> |
+                        <a href="http://maillist.chinabyte.com/">电子杂志</a> |
+                        <a href="http://rss.chinabyte.com/">RSS订阅</a> |
+                        <a href="http://www.tianjimedia.com/invitation/" rel="nofollow">加入我们</a> |
+                        <a href="http://www.tianjimedia.com/tjdt/list/" rel="nofollow">天极动态</a> |
+                        <a href="http://www.chinabyte.com/sitemap.html">网站地图</a> |
+                        <a href="http://passport.chinabyte.com/login.jsp?auto=1&amp;returnurl=http://bbs.chinabyte.com/" rel="nofollow">网友上传</a>
+                    </div>
+
+                    <div id="CopyRight">Copyright &copy; 1997-2014 Chinabyte.com, All Rights Reserved 版权所有 天极网络
+                    </div>
+
+
+                </div>
+
+            </div>
+
+
+
+        </div>
+
+
+
+
+
+        <!-- 没有引入html-load用require引入图片 -->
+        <!-- <%= require(url-loader?limit=1024&outputPath=public/img!./public/img/undefind.png)%> -->
+    </div>
+<script type="text/javascript" src="app.6b8332bd16efcc3405b3.js?6b8332bd16efcc3405b3"></script></body>
+
+</html>
